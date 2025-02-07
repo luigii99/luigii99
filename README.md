@@ -1,5 +1,25 @@
 <h1 align="center">Ciao 👋, sono Luigi Mresca</h1>
-<h3 align="center">Sono uno studente di ingegneria informatica presso l'Università di Napoli.</h3>
+
+## 🎓 About Me
+- **Computer Engineering Student**  
+- **Passionate about Technology and Cybersecurity**  
+- **Attended** [Neapolis Summer Campus (NISC) ST32](#)  
+- **Currently enrolled in** [CyberHackademy](#) at the University of Naples  
+
+## 🚀 What You'll Find Here
+- 🛡️ **Cybersecurity Projects**  
+- ⚡ **Scripting & Automation**  
+- 💻 **Software Development**  
+- 🎯 **CTF & Ethical Hacking**  
+
+## 🛠️ Technologies & Tools
+- **Programming Languages**: `Python`, `C`, `Bash`  
+- **Security Tools**: `Kali Linux`, `Wireshark`, `Metasploit`  
+- **Version Control**: `Git & GitHub`  
+
+
+
+Interested in collaborating? Feel free to reach out! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi99&label=Profile%20views&color=0e75b6&style=flat" alt="luigi99" /> </p> <p align="
 
