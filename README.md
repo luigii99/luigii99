@@ -4,7 +4,7 @@
 - **Computer Engineering Student**  
 - **Passionate about Technology and Cybersecurity**  
 - **Attended** [Neapolis Summer Campus (NISC) ST32](#)  
-- **Currently enrolled in** [CyberHackademy](#) at the University of Naples  
+- **Currently enrolled in** [@CyberHackademy](#) at the University of Naples  
 
 ## 🚀 What You'll Find Here
 - 🛡️ **Cybersecurity Projects**  
