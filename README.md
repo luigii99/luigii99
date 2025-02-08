@@ -1,5 +1,5 @@
-<h1 align="center">Ciao 👋, sono Luigi Mresca</h1>
-
+<h1 align="center">Ciao 👋, sono Luigi </h1>
+<h2 I'm Luigi Maresca, I'm 25 years old, I'm a computer engineer, I'm currently attending the cyberhackademy at Federico University || from Naples, I am interested in computer security and artificial intelligence, I like working on team projects and new technologies </h2>
 ## 🎓 About Me
 - **Computer Engineering Student**  
 - **Passionate about Technology and Cybersecurity**  
