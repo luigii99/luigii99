@@ -1,25 +1,31 @@
 <h1 align="center">Ciao 👋, sono Luigi </h1>
-<h2 I'm Luigi Maresca, I'm 25 years old, I'm a computer engineer, I'm currently attending the cyberhackademy at Federico University || from Naples, I am interested in computer security and artificial intelligence, I like working on team projects and new technologies </h2>
-## 🎓 About Me
-- **Computer Engineering Student**  
-- **Passionate about Technology and Cybersecurity**  
-- **Attended** [Neapolis Summer Campus (NISC) ST32](#)  
-- **Currently enrolled in** [@CyberHackademy](#) at the University of Naples  
+🎓 **Computer Engineer** | 🔐 **Appassionato di Sicurezza Informatica & AI** | 🚀 **Innovazione & Nuove Tecnologie**  
 
-## 🚀 What You'll Find Here
+##
+
+My name is **Luigi Maresca**, I am a software engineer with a strong passion for **cyber security** and **artificial intelligence**.  
+I am currently attending a **specialization at CyberHackademy** at the University Federico ||  of Naples.
+
+ 
+
+
+## 💡 what I'm passionate about:
 - 🛡️ **Cybersecurity Projects**  
 - ⚡ **Scripting & Automation**  
 - 💻 **Software Development**  
-- 🎯 **CTF & Ethical Hacking**  
+- 🎯 **CTF & Ethical Hacking**
+- 🤖 **Artificial Inteligence and Machine Learning**
 
-## 🛠️ Technologies & Tools
-- **Programming Languages**: `Python`, `C`, `Bash`  
+## 🛠️ Technologies & Tools 
+- **Programming Languages**: `Python`, `C`, `Bash` , `sql`
 - **Security Tools**: `Kali Linux`, `Wireshark`, `Metasploit`  
 - **Version Control**: `Git & GitHub`  
 
+## 📫 Contact 
+-If you want to work with me don't hesitate to contact me :
 
 
-Interested in collaborating? Feel free to reach out! 🚀
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luigi99&label=Profile%20views&color=0e75b6&style=flat" alt="luigi99" /> </p> <p align="
 
