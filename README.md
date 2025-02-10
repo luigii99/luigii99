@@ -33,7 +33,7 @@ left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https
 
 <h3 align="left">Contattami:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/luigi-maresca-892385272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luigi-maresca-892385272/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luigi-maresca-892385272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luigi-maresca-892385272/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lingue e strumenti:</h3>
