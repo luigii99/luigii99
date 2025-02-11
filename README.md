@@ -1,4 +1,4 @@
-<h1 align="center">Ciao 👋, sono Luigi </h1>
+<h1 align="center"> Hi 👋, I am Luigi </h1>
 🎓 **Computer Engineer** | 🔐 **Appassionato di Sicurezza Informatica & AI** | 🚀 **Innovazione & Nuove Tecnologie**  
 
 ##
